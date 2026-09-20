@@ -241,7 +241,7 @@ modelos-lineares-ligue180/
 
 O relatório acadêmico completo pode ser acessado diretamente pelo link abaixo:
 
-📄 [Abrir relatório final em PDF](Modelos%20de%20Regress%C3%A3o%20Linear%20-%20An%C3%A1lise%20da%20Evolu%C3%A7%C3%A3o%20Temporal%20dos%20Registros%20do%20Ligue%20180.pdf)
+📄 [Abrir relatório final em PDF](https://github.com/Lilian-Santtos/modelos-lineares-ligue180/raw/refs/heads/main/Modelos%20de%20Regress%C3%A3o%20Linear%20-%20An%C3%A1lise%20da%20Evolu%C3%A7%C3%A3o%20Temporal%20dos%20Registros%20do%20Ligue%20180.pdf)
 
 ---
 
