@@ -259,7 +259,14 @@ Brasília – DF
 
 ## 📚 Fonte dos dados
 
-BRASIL. **Central de Atendimento à Mulher – Ligue 180: base de dados**. Governo Federal.
+BRASIL. Ministério das Mulheres. **Central de Atendimento à Mulher – Ligue 180**.
 
-Dados públicos disponíveis em:  
-https://dados.gov.br/dados/conjuntos-dados/central-de-atendimento-a-mulher--ligue-180
+Os dados utilizados neste projeto foram originalmente obtidos do Portal Brasileiro de Dados Abertos, a partir das bases públicas da Central de Atendimento à Mulher – Ligue 180, referentes ao período de janeiro de 2022 a março de 2024.
+
+Atualmente, as informações oficiais do Ligue 180 são disponibilizadas pelo Ministério das Mulheres:
+
+📊 [Painel de Dados do Ligue 180](https://www.gov.br/mulheres/pt-br/ligue180/painel-de-dados)
+
+📂 [Dados Abertos do Ministério das Mulheres](https://www.gov.br/mulheres/pt-br/acesso-a-informacao/dados-abertos)
+
+Para garantir a reprodutibilidade desta análise, o notebook utiliza cópias preservadas das mesmas bases públicas utilizadas originalmente no desenvolvimento do projeto.
